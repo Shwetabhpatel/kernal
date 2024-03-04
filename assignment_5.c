@@ -2,7 +2,7 @@
 void main()
 {
     int num;
-    printf("\n Enter number whose table you want to print : ");
+    printf("\n Enter number whose table you want to print :_");
     scanf("%d",&num);
 
     for(int i=1;i<=10;i++)
